@@ -20,8 +20,6 @@
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@your_twitter_handle](https://twitter.com/yourhandle)
 
-## 😄 Pronouns: He/Him
-
 ## ⚡ Fun fact
 I love Batman! My eCommerce project, "BatStore," is themed around him.
 
