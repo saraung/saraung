@@ -17,8 +17,8 @@
 
 ## 📫 How to reach me
 - Email: [saraungbabu@gmail.com](mailto:saraungbabu@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@your_twitter_handle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/saraung-babu/))https://www.linkedin.com/in/saraung-babu/
+- Twitter: [@your_twitter_handle](https://twitter.com)
 
 ## ⚡ Fun fact
 I love Batman! My eCommerce project, "BatStore," is themed around him.
