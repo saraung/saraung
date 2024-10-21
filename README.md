@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @saraung
+# 👋 Hi, I’m Saraung Babu
 
 ## 👀 I’m interested in
 - Web Development (MERN Stack)
