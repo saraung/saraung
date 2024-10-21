@@ -16,9 +16,9 @@
 - UI/UX design improvements for existing projects
 
 ## 📫 How to reach me
-- Email: <a href="mailto:saraungbabu@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Icon" width="20" height="20"></a>
-- LinkedIn: <a href="https://www.linkedin.com/in/saraung-babu/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"></a>
-- Hugging Face: <a href="https://huggingface.co/saraung"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"></a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="20" height="20"> : [saraungbabu@gmail.com](mailto:saraungbabu@gmail.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"> : [https://www.linkedin.com/in/saraung-babu/](https://www.linkedin.com/in/saraung-babu/)
+- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"> : [https://huggingface.co/saraung](https://huggingface.co/saraung) how to add images to this
 
 
 ## ⚡ Fun fact
