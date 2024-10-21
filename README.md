@@ -18,7 +18,7 @@
 ## 📫 How to reach me
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="20" height="20"> : [saraungbabu@gmail.com](mailto:saraungbabu@gmail.com)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"> : [https://www.linkedin.com/in/saraung-babu/](https://www.linkedin.com/in/saraung-babu/)
-- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"> : [https://huggingface.co/saraung](https://huggingface.co/saraung) how to add images to this
+- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"> : [https://huggingface.co/saraung](https://huggingface.co/saraung)
 
 
 ## ⚡ Fun fact
@@ -30,17 +30,17 @@ I love Batman! My eCommerce project, "BatStore," is themed around him.
 ### [BatStore](https://github.com/saraung/batstore)
 - An eCommerce website themed around Batman.
 - **Technologies Used:** MERN Stack, Tailwind CSS.
-![BatStore Screenshot](https://via.placeholder.com/150)  <!-- Replace with actual screenshot URL -->
+![BatStore Screenshot](https://i.imgur.com/F3glkFI.png)  <!-- Replace with actual screenshot URL -->
 
 ### [Spam Email Detection](https://github.com/saraung/spam-email-detection)
 - A model trained to classify spam emails using Flask and React.
 - **Technologies Used:** Flask, React, Machine Learning.
-![Spam Detection Screenshot](https://via.placeholder.com/150)  <!-- Replace with actual screenshot URL -->
+![Spam Detection Screenshot](https://i.imgur.com/F1VrvRs.png)  <!-- Replace with actual screenshot URL -->
 
 ### [Diabetes Prediction](https://github.com/saraung/diabetes-prediction)
 - A website for predicting diabetes using machine learning algorithms.
 - **Technologies Used:** Flask, React, Random Forest.
-![Diabetes Prediction Screenshot](https://via.placeholder.com/150)  <!-- Replace with actual screenshot URL -->
+![Diabetes Prediction Screenshot](https://i.imgur.com/cGN9ZFG.png)  <!-- Replace with actual screenshot URL -->
 
 ---
 
