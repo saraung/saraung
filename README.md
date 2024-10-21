@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Saraung Babu
+# Hi there, I'm Saraung! 👋
+
+## 🌐 [www.saraung.com](http://www.saraung.com)
+
+Welcome to my GitHub profile! Check out my portfolio at the link above.
 
 ## 👀 I’m interested in
 - Web Development (MERN Stack)
