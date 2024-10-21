@@ -16,9 +16,9 @@
 - UI/UX design improvements for existing projects
 
 ## 📫 How to reach me
-- Email: [![Gmail Icon](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png)](mailto:saraungbabu@gmail.com)
-- LinkedIn: [![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/saraung-babu/)
-- Hugging Face: [![Hugging Face Icon](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/saraung)
+- Email: <a href="mailto:saraungbabu@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Icon" width="20" height="20"></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/saraung-babu/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"></a>
+- Hugging Face: <a href="https://huggingface.co/saraung"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"></a>
 
 
 ## ⚡ Fun fact
