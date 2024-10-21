@@ -22,12 +22,17 @@
 
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black" height="40">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="40">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" height="40">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40">
 
 ---
 
