@@ -16,9 +16,10 @@
 - UI/UX design improvements for existing projects
 
 ## 📫 How to reach me
-- Email: [saraungbabu@gmail.com](mailto:saraungbabu@gmail.com)
-- LinkedIn:([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/saraung-babu/))
-- Twitter: [Hugging Face](https://huggingface.co/saraung)
+- Email: [![Gmail Icon](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png)](mailto:saraungbabu@gmail.com)
+- LinkedIn: [![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/saraung-babu/)
+- Hugging Face: [![Hugging Face Icon](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/saraung)
+
 
 ## ⚡ Fun fact
 I love Batman! My eCommerce project, "BatStore," is themed around him.
