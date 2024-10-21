@@ -21,6 +21,16 @@
 - <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Icon" width="20" height="20"> : [https://huggingface.co/saraung](https://huggingface.co/saraung)
 
 
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
 ## ⚡ Fun fact
 I love Batman! My eCommerce project, "BatStore," is themed around him.
 
@@ -44,15 +54,7 @@ I love Batman! My eCommerce project, "BatStore," is themed around him.
 
 ---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraung&show_icons=true&theme=radical)
