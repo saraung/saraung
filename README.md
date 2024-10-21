@@ -23,6 +23,7 @@
 
 ## 🛠️ Technologies & Tools
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black" height="40">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="40">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="40">
@@ -33,6 +34,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40">
+</p>
 
 ---
 
