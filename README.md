@@ -139,14 +139,10 @@ CGPA: **8.03 / 10**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api.svg?username=saraung&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saraung&theme=tokyonight)
+
 
 
 
