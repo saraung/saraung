@@ -143,10 +143,11 @@ CGPA: **8.03 / 10**
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saraung&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Saraung GitHub stats"
+    src="https://github-readme-stats.vercel.app/api.svg?username=saraung&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
+
 
 
 ---
