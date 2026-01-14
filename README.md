@@ -85,7 +85,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 * End-to-end order lifecycle with delivery slots, roles, and admin controls
 * Secure payments and optimized database queries
 
-🔗 [https://github.com/saraung/smart-canteen](https://github.com/saraung/smart-canteen)
+🔗 [https://sngcecanteen.vercel.app/](https://github.com/saraung/smart-canteen)
 
 ---
 
@@ -97,7 +97,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 * Backend services for alert ingestion and processing
 * Mobile app for real-time event visualization
 
-🔗 [https://github.com/saraung/forestguard-tinyml](https://github.com/saraung/forestguard-tinyml)
+🔗[https://github.com/saraung/forestguardclient](https://github.com/saraung/forestguardclient)
 
 ---
 
@@ -108,7 +108,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 * Batman-themed eCommerce website
 * Clean UI and optimized UX
 
-🔗 [https://github.com/saraung/batstore](https://github.com/saraung/batstore)
+🔗 [https://github.com/saraung/e-commerce-website](https://github.com/saraung/e-commerce-website)
 
 ---
 
@@ -118,7 +118,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 
 * ML model to classify spam vs non-spam emails
 
-🔗 [https://github.com/saraung/spam-email-detection](https://github.com/saraung/spam-email-detection)
+🔗 [https://github.com/saraung/SpamEmailDetection](https://github.com/saraung/SpamEmailDetection)
 
 ---
 
@@ -142,9 +142,12 @@ CGPA: **8.03 / 10**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saraung&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraung&layout=compact&theme=radical" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saraung&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Saraung GitHub stats"
+  />
 </p>
+
 
 ---
 
