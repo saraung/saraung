@@ -157,4 +157,3 @@ CGPA: **8.03 / 10**
 
 ---
 
-> ⚡ *Build software that survives reality — not just demos.*
