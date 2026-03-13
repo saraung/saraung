@@ -126,7 +126,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 
 **B.Tech in Computer Science & Engineering (2022 – 2026)**
 Sree Narayana Gurukulam College of Engineering
-CGPA: **8.03 / 10**
+CGPA: **8.08 / 10**
 
 ---
 
