@@ -112,7 +112,7 @@ I enjoy working where **backend engineering, machine learning, and systems think
 
 ---
 
-### 📧 Spam Email Detection
+### 📧 Spam Email Detections
 
 **Flask • React • Machine Learning**
 
